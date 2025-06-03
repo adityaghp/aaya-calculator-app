@@ -168,8 +168,8 @@ export default function App() {
           />
         </View>
         <View style={styles.headerContent}>
-          <Text style={styles.headerTitle}>Aaya Calculator</Text>
-          <Text style={styles.headerSubtitle}>United Builders & Constructions</Text>
+          <Text style={styles.headerTitle}>Sample Calculator</Text>
+          <Text style={styles.headerSubtitle}>Xylem Constructions</Text>
         </View>
         <View style={styles.headerRight}>
           <TouchableOpacity 
